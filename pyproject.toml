@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "app for analyze bank transactions"
+version = "0.1.0"
+description = ""
+authors = ["FireBoy48 <gert48750@mail.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.3"
+openpyxl = "^3.1.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
