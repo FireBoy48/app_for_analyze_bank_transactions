@@ -1,0 +1,4 @@
+2025-06-17 14:57:43,230-reports.py-INFO-Запуск декоратора reports_file
+2025-06-17 14:57:43,908-reports.py-INFO-Запуск функции spending_by_weekday
+2025-06-17 14:57:43,935-reports.py-INFO-Найдено 5 совпадений
+2025-06-17 14:57:43,945-reports.py-INFO-Данные записаны
